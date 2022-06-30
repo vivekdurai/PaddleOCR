@@ -7,7 +7,7 @@ tqdm
 numpy
 visualdl
 python-Levenshtein
-opencv-contrib-python
+opencv-contrib-python-headless
 cython
 lxml
 premailer
